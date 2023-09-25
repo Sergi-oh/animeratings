@@ -78,7 +78,7 @@ const App = ()=> {
                 </h3>
                 <button onClick={()=> {deleteAnime(anime)}}>Delete</button>
               </li>
-            )
+            );
           })
         }
       </ul>
